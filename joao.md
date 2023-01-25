@@ -1,3 +1,78 @@
+<style>
+    h2 {
+        font-size: 2rem;
+        font-weight: bold;
+        font-family: "RetroGaming", sans-serif;
+        margin-top: 2em;
+        padding: 0px;
+        text-align: center;
+        color: #2b2b2b;
+        border-radius: 5px;
+        border-style: solid;
+        border-color: #62d0ff;
+        border-width: thick;
+        background-color: rgba(183, 213, 255, 0.9);
+    }
+
+    h5 {
+        font-size: 1.5rem;
+        background-color: rgba(255, 199, 99, 0);
+        padding: 6px 10px 0px 10px;
+        border-radius: 5px;
+        color: #58a6ff;
+        border-bottom: thick solid #7e47f5;
+    }
+
+    p {
+        text-align: left;
+    }
+
+    i {
+        color: #0000ff;
+    }
+
+    ol {
+        list-style-type: decimal;
+    }
+
+    ul {
+        list-style-type: square;
+    }
+
+    .info {
+        margin-top: 2em;
+        margin-bottom: 2em;
+        text-align: center;
+        color: #ace;
+        border-radius: 5px;
+        background-color: rgba(57, 114, 227, 0.2);
+        display: flex;
+        align-items: center;
+    }
+
+    .info h4 {
+        font-size: 1.3rem;
+        font-family: sans-serif;
+        font-weight: bold;
+        margin: 0rem;
+        margin-top: 0.5rem;
+        margin-left: 1.5rem;
+        margin-bottom: 0.4rem;
+        color: #664fff;
+        text-align: left;
+    }
+
+    .info p {
+        margin-right: 1em;
+        margin-left: 3rem;
+        text-align: left;
+        margin-top: 0rem;
+        font-size: 1rem;
+        font-family: sans-serif;
+        color: #1e00dd;
+    }
+</style>
+
 ## Dia 1
 
 - Orar agradecendo pela Palavra de Deus e pedindo por sabedoria na compreensão e aplicação do texto.</li>

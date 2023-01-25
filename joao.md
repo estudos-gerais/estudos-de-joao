@@ -81,7 +81,7 @@
     - Faça perguntas ao texto... O quê? Quem? Quando?</li>
     - Esse versículo te faz lembrar outros versículos? Quais?</li>
 
-*Instrução:* Note as curiosidades do texto... Há coisas que poderiam ser percebidas mesmo se este verso
+***Instrução:*** Note as curiosidades do texto... Há coisas que poderiam ser percebidas mesmo se este verso
     não tivesse um contexto:</p>
 
 <ol>
